@@ -1,0 +1,35 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_756_155)">
+<g clip-path="url(#clip1_756_155)">
+<mask id="path-1-inside-1_756_155" fill="white">
+<rect x="8.00012" y="-0.202423" width="4.8" height="4.8" rx="1.14286" transform="rotate(45 8.00012 -0.202423)"/>
+</mask>
+<rect x="8.00012" y="-0.202423" width="4.8" height="4.8" rx="1.14286" transform="rotate(45 8.00012 -0.202423)" stroke="white" stroke-width="3" mask="url(#path-1-inside-1_756_155)"/>
+<mask id="path-2-inside-2_756_155" fill="white">
+<rect x="12.8085" y="4.6059" width="4.8" height="4.8" rx="1.14286" transform="rotate(45 12.8085 4.6059)"/>
+</mask>
+<rect x="12.8085" y="4.6059" width="4.8" height="4.8" rx="1.14286" transform="rotate(45 12.8085 4.6059)" stroke="white" stroke-width="3" mask="url(#path-2-inside-2_756_155)"/>
+</g>
+<g clip-path="url(#clip2_756_155)">
+<mask id="path-3-inside-3_756_155" fill="white">
+<rect x="3.19177" y="4.6059" width="4.8" height="4.8" rx="1.14286" transform="rotate(45 3.19177 4.6059)"/>
+</mask>
+<rect x="3.19177" y="4.6059" width="4.8" height="4.8" rx="1.14286" transform="rotate(45 3.19177 4.6059)" stroke="white" stroke-width="3" mask="url(#path-3-inside-3_756_155)"/>
+<mask id="path-4-inside-4_756_155" fill="white">
+<rect x="8.00012" y="9.41422" width="4.8" height="4.8" rx="1.14286" transform="rotate(45 8.00012 9.41422)"/>
+</mask>
+<rect x="8.00012" y="9.41422" width="4.8" height="4.8" rx="1.14286" transform="rotate(45 8.00012 9.41422)" stroke="white" stroke-width="3" mask="url(#path-4-inside-4_756_155)"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_756_155">
+<rect width="16" height="16" fill="white"/>
+</clipPath>
+<clipPath id="clip1_756_155">
+<rect width="11.6" height="4.8" fill="white" transform="translate(8.00012 -0.202423) rotate(45)"/>
+</clipPath>
+<clipPath id="clip2_756_155">
+<rect width="11.6" height="4.8" fill="white" transform="translate(3.19177 4.6059) rotate(45)"/>
+</clipPath>
+</defs>
+</svg>
